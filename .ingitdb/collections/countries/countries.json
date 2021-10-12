@@ -1,0 +1,33 @@
+{
+    "id": "countries",
+    "path": "collections/countries",
+    "columns": [
+        {
+            "id": "id",
+            "type": "string"
+        },
+        {
+            "id": "title",
+            "type": "string"
+        },
+        {
+            "id": "population",
+            "type": "integer"
+        }
+    ],
+    "views": [
+        {
+            "id": "all",
+            "columns": [
+                {
+                    "id": "id",
+                    "type": "string"
+                },
+                {
+                    "id": "title",
+                    "type": "string"
+                }
+            ]
+        }
+    ]
+}
