@@ -2,5 +2,5 @@
 
 ## Fields
 
-- id: ru
-- title: Russian Federation
+- **id:** ru
+- **title**: Russian Federation
