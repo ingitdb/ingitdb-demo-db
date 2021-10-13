@@ -1,6 +1,7 @@
 {
     "id": "countries",
     "path": "collections/countries",
+    "title": "Countries",
     "columns": [
         {
             "id": "id",
