@@ -16,6 +16,11 @@
             "type": "integer"
         }
     ],
+    "readme": {
+        "view": "all",
+        "format": "ul",
+        "columns": ["title"]
+    },
     "views": [
         {
             "id": "all",
