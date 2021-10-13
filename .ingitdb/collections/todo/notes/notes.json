@@ -1,0 +1,45 @@
+{
+    "id": "todo/notes",
+    "path": "collections/todo/notes",
+    "columns": [
+        {
+            "id": "id",
+            "type": "string"
+        },
+        {
+            "id": "title",
+            "type": "string"
+        },
+        {
+            "id": "body",
+            "type": "string"
+        },
+        {
+            "id": "tags",
+            "type": "[]string",
+            "foreighnKey": {
+                "collection": "todo/tags",
+                "view": "array_of_ids"
+            }
+        }
+    ],
+    "views": [
+        {
+            "id": "all",
+            "columns": [
+                {
+                    "id": "id",
+                    "type": "string"
+                },
+                {
+                    "id": "title",
+                    "type": "string"
+                },
+                {
+                    "id": "tags",
+                    "type": "[]string"
+                }
+            ]
+        }
+    ]
+}
