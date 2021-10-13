@@ -2,7 +2,7 @@
     "id": "todo/tags",
     "path": "collections/todo/tags",
     "title": "ToDo Tags",
-    "columns": [
+    "fields": [
         {
             "id": "id",
             "type": "string"

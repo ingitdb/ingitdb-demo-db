@@ -2,7 +2,7 @@
     "id": "countries",
     "path": "collections/countries",
     "title": "Countries",
-    "columns": [
+    "fields": [
         {
             "id": "id",
             "type": "string"
