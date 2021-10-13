@@ -1,4 +1,4 @@
 # Countries
 
-- [Russian Federation](ru)
-- [United States](us)
+- [Russian Federation](records/ru)
+- [United States](records/us)
