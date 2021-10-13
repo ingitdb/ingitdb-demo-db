@@ -1,6 +1,7 @@
 {
     "id": "todo/tags",
     "path": "collections/todo/tags",
+    "title": "ToDo Tags",
     "columns": [
         {
             "id": "id",

@@ -1,6 +1,7 @@
 {
     "id": "todo/notes",
     "path": "collections/todo/notes",
+    "title": "ToDo Notes",
     "columns": [
         {
             "id": "id",
